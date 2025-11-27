@@ -110,6 +110,10 @@ Data Modeling – Relationship design and optimization
 2. EDA (Exploratory Data Analysis)
 
 ## Key Findings and Insights
+
+![image alt](https://github.com/Rohitshinde14/Credit_Card_Report_powerbi/blob/main/Credit%20Card%20Customer%20Report%20Dashboard.png)
+
+![image alt](https://github.com/Rohitshinde14/Credit_Card_Report_powerbi/blob/main/Credit%20Card%20Transaction%20Report%20Dashboard.png)
 * High-income individuals and graduates contribute significantly to credit card revenue.
 
 * Customers aged 30–50 show the highest transaction volume and spending levels.
