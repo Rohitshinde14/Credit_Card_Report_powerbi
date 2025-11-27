@@ -27,7 +27,7 @@ The goal of this project is to analyze customer demographics and transaction beh
 ## Dataset
 The dataset includes:
 
-* Customer Dataset:
+**Customer Dataset:**
 
 Client_Num - Unique identifier assigned to each credit card customer.
 
@@ -55,11 +55,11 @@ contact - Preferred communication channel used by the customer (cellular/telepho
 
 Customer_Job - Occupation category of the customer (Businessman, Govt, Retirees, etc.).
 
-Income - Annual income of the customer in dollars.
+Income - Annual income of the customer.
 
 Cust_Satisfaction_Score - Customer’s rating of satisfaction on a scale of 1–5.
 
-* Credit Card Dataset:
+**Credit Card Dataset:**
 
 Client_Num - Customer ID linking transaction data to customer details.
 
