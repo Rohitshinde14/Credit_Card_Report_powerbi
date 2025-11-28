@@ -1,5 +1,5 @@
 
-# CREDIT CARD CUSTOMER AND TRANSACTION ANALYSIS
+# CREDIT CARD CUSTOMER AND TRANSACTION REPORT
 
 ![image alt](https://github.com/Rohitshinde14/Credit_Card_Report_powerbi/blob/main/Credit%20Card%20Report%20Thumbnail.png)
 
