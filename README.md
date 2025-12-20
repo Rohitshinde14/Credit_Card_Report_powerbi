@@ -117,15 +117,15 @@ Data Modeling – Relationship design and optimization
 ![image alt](https://github.com/Rohitshinde14/Credit_Card_Report_powerbi/blob/main/Credit%20Card%20Transaction%20Report%20Dashboard.png)
 -  High-income individuals and graduates contribute significantly to credit card revenue.
 
--  Customers aged 30–50 show the highest transaction volume and spending levels.
+-  Customers aged 40–50 show the highest transaction volume and spending levels.
 
--  The Blue and Gold card categories drive the majority of revenue.
+-  The Blue card category drive the majority of revenue.
 
 -  Swipe transactions contribute the highest revenue compared to Chip and Online.
 
 -  Bills, entertainment, and fuel are the top expenditure categories.
 
--  Q3 and Q4 show increased revenue, indicating strong year-end spending patterns.
+-  Q2 and Q3 show increased revenue, indicating strong year-end spending patterns.
 ## How to Run This Project
 -  Clone the repository:
 git clone https://github.com/Rohitshinde14/Credit_Card_Report_powerbi
