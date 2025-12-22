@@ -25,7 +25,7 @@ The insights guide data-driven decisions in marketing, product strategy, and ris
 ## Objective
 The goal of this project is to analyze customer demographics and transaction behaviors to understand revenue patterns, identify high-performing segments, and recommend strategies to improve credit card business performance.
 ## Dataset
-The dataset includes:
+The dataset includes(**8000+** records):
 
 **Customer Dataset:**
 
@@ -150,8 +150,10 @@ Connect dashboards to live data sources for real-time monitoring of transaction 
 -  Automated Reporting
 Build a workflow to automate monthly or weekly performance reporting to stakeholders.
 
-## Conclusion
-The Credit Card Customer & Transaction Analysis project provides a comprehensive understanding of customer behavior, spending patterns, and revenue drivers. Overall, this project demonstrates how data-driven insights can help financial institutions enhance customer satisfaction, improve retention strategies, and maximize revenue efficiency.
+## Result And Conclusion
+- Identified top customer segments contributing **~30%** of total revenue, uncovered high-performing card categories and transaction modes, and provided insights to support data-driven business decisions.
+- The Credit Card Customer & Transaction Analysis project provides a comprehensive understanding of customer behavior, spending patterns, and revenue drivers.
+- Overall, this project demonstrates how data-driven insights can help financial institutions enhance customer satisfaction, improve retention strategies, and maximize revenue efficiency.
 ## Contact
 Rohit Shinde  
 Data Analyst
